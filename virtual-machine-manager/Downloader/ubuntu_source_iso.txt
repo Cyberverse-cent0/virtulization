@@ -1,0 +1,66 @@
+# Ubuntu ISO Download URLs - Current + Old Versions
+# Desktop, Server (live-server), Netboot, etc.
+# Official sources: releases.ubuntu.com and old-releases.ubuntu.com
+
+# =============================================
+# Latest Ubuntu (as of 2026)
+# =============================================
+# Ubuntu 26.04 LTS (Resolute Raccoon)
+https://releases.ubuntu.com/26.04/ubuntu-26.04-desktop-amd64.iso
+https://releases.ubuntu.com/26.04/ubuntu-26.04-live-server-amd64.iso
+
+# Ubuntu 24.04.4 LTS (Noble Numbat) - Recommended stable
+https://releases.ubuntu.com/24.04/ubuntu-24.04.4-desktop-amd64.iso
+https://releases.ubuntu.com/24.04/ubuntu-24.04.4-live-server-amd64.iso
+
+# Ubuntu 22.04.5 LTS (Jammy Jellyfish)
+https://releases.ubuntu.com/22.04/ubuntu-22.04.5-desktop-amd64.iso
+https://releases.ubuntu.com/22.04/ubuntu-22.04.5-live-server-amd64.iso
+
+# =============================================
+# Older LTS Versions (still popular)
+# =============================================
+# Ubuntu 20.04.6 LTS (Focal Fossa)
+https://releases.ubuntu.com/20.04/ubuntu-20.04.6-desktop-amd64.iso
+https://releases.ubuntu.com/20.04/ubuntu-20.04.6-live-server-amd64.iso
+
+# Ubuntu 18.04.6 LTS (Bionic Beaver)
+https://old-releases.ubuntu.com/releases/bionic/ubuntu-18.04.6-desktop-amd64.iso
+https://old-releases.ubuntu.com/releases/bionic/ubuntu-18.04.6-live-server-amd64.iso
+
+# Ubuntu 16.04.7 LTS (Xenial Xerus)
+https://old-releases.ubuntu.com/releases/xenial/ubuntu-16.04.7-desktop-amd64.iso
+
+# Ubuntu 14.04.6 LTS (Trusty Tahr)
+https://old-releases.ubuntu.com/releases/trusty/ubuntu-14.04.6-desktop-amd64.iso
+
+# =============================================
+# More Older Versions (from old-releases)
+# =============================================
+# Ubuntu 12.04.5 LTS (Precise Pangolin)
+https://old-releases.ubuntu.com/releases/precise/ubuntu-12.04.5-desktop-amd64.iso
+
+# Ubuntu 10.04.4 LTS (Lucid Lynx)
+https://old-releases.ubuntu.com/releases/lucid/ubuntu-10.04.4-desktop-amd64.iso
+
+# Ubuntu 8.04.4 LTS (Hardy Heron)
+https://old-releases.ubuntu.com/releases/hardy/ubuntu-8.04.4-desktop-amd64.iso
+
+# =============================================
+# Useful Directories (for browsing all files)
+# =============================================
+https://releases.ubuntu.com/                  # Current releases
+https://old-releases.ubuntu.com/releases/    # All old releases
+https://releases.ubuntu.com/24.04/           # Latest 24.04 files
+https://releases.ubuntu.com/22.04/
+https://old-releases.ubuntu.com/releases/bionic/
+https://old-releases.ubuntu.com/releases/focal/
+https://cdimage.ubuntu.com/releases/         # Additional images
+
+# =============================================
+# Other Popular Flavors (Desktop variants)
+# =============================================
+# Kubuntu, Xubuntu, Lubuntu, Ubuntu MATE, etc.
+https://cdimage.ubuntu.com/kubuntu/releases/24.04/release/
+https://cdimage.ubuntu.com/xubuntu/releases/24.04/release/
+https://cdimage.ubuntu.com/lubuntu/releases/24.04/release/

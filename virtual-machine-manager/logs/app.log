@@ -1,0 +1,17 @@
+[INFO] 2026-05-09 10:58:09 - This is an info message (screen + log)
+[SUCCESS] 2026-05-09 10:58:09 - Operation successful!
+[WARNING] 2026-05-09 10:58:09 - This is a warning message
+[ERROR] 2026-05-09 10:58:09 - This is an error message
+[DEBUG] 2026-05-09 10:58:09 - Debug message (only shows when DEBUG_MODE=1)
+[SUCCESS] 2026-05-09 10:58:09 - Test String is valid
+[SUCCESS] 2026-05-09 10:58:09 - Age is valid number: 42
+[SUCCESS] 2026-05-09 10:58:09 - Valid email: test@example.com
+[SUCCESS] 2026-05-09 10:58:09 - Valid IP address: 192.168.1.1
+[SUCCESS] 2026-05-09 10:58:09 - Created directory: /tmp/test_dir
+[INFO] 2026-05-09 10:58:09 - === System Information ===
+[INFO] 2026-05-09 10:58:10 - Checking internet connectivity...
+[ERROR] 2026-05-09 10:58:10 - No internet connection
+[INFO] 2026-05-09 11:00:13 - KVM/QEMU Universal Installer
+[INFO] 2026-05-09 11:00:13 - ============================
+[INFO] 2026-05-09 11:00:13 - Detected distribution: ubuntu
+[INFO] 2026-05-09 11:00:13 - Dry run mode - would run setup for ubuntu

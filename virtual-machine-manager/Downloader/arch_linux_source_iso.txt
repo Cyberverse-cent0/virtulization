@@ -1,0 +1,55 @@
+# Arch Linux + BlackArch + Related Distros ISO URLs
+# Official sources only
+
+# =============================================
+# Arch Linux (Rolling Release - Monthly ISOs)
+# =============================================
+https://geo.mirror.pkgbuild.com/iso/latest/archlinux-x86_64.iso
+https://archlinux.org/download/                                      # Official download page
+
+# Old / Archived ISOs
+https://archive.archlinux.org/iso/                                   # All old monthly ISOs
+
+# =============================================
+# BlackArch Linux (Penetration Testing)
+# =============================================
+# Full ISO (all tools - very large ~22GB)
+https://ftp.halifax.rwth-aachen.de/blackarch/iso/blackarch-linux-full-2023.04.01-x86_64.iso
+
+# Slim ISO (selected tools + XFCE)
+https://ftp.halifax.rwth-aachen.de/blackarch/iso/blackarch-linux-slim-2023.05.01-x86_64.iso
+
+# Netinstall ISO (lightweight)
+https://ftp.halifax.rwth-aachen.de/blackarch/iso/blackarch-linux-netinst-2023.04.01-x86_64.iso
+
+https://blackarch.org/downloads.html                                 # Official BlackArch downloads
+
+# =============================================
+# Popular Arch-based Distros
+# =============================================
+
+# EndeavourOS (User-friendly Arch)
+https://endeavouros.com/download/                                    # Official page
+# Latest ISO example (check site for current link)
+# https://mirror.archlinux.org/endeavouros/iso/...
+
+# Manjaro (Stable Arch-based)
+https://manjaro.org/download/                                        # Official downloads (GNOME, KDE, XFCE)
+
+# Garuda Linux (Gaming/Performance focused)
+https://garudalinux.org/downloads.html
+
+# ArcoLinux (Learning-focused)
+https://arcolinux.com/download/
+
+# Archcraft (Minimal & Aesthetic)
+https://archcraft.io/download.html
+
+# =============================================
+# Useful Directories & Mirrors
+# =============================================
+https://archlinux.org/download/                  # Arch main
+https://archive.archlinux.org/iso/               # Arch archive
+https://blackarch.org/downloads.html             # BlackArch
+https://mirrors.archlinux.org/                   # Mirror list
+https://distrowatch.com/search.php?basedon=Arch # More Arch-based distros

@@ -1,0 +1,15 @@
+<domain type="kvm">
+  <name>vm-name</name>
+  <memory unit="MiB">2048</memory>
+  <vcpu>2</vcpu>
+  <os>
+    <type arch="x86_64">hvm</type>
+  </os>
+  <devices>
+    <disk type="file" device="disk">
+      <driver name="qemu" type="qcow2"/>
+      <source file="/var/lib/libvirt/images/vm.qcow2"/>
+      <target dev="vda" bus="virtio"/>
+    </disk>
+  </devices>
+</domain>

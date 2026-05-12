@@ -1,0 +1,44 @@
+# Fedora ISO Download URLs - Current + Old Versions
+# Main site: https://fedoraproject.org/
+# Archive: https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/
+
+# =============================================
+# Latest Fedora 44 (Released April 2026)
+# =============================================
+# Workstation (GNOME) - Recommended for desktops
+https://dl.fedoraproject.org/pub/fedora/linux/releases/44/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-44-1.?.iso
+
+# Server Edition
+https://dl.fedoraproject.org/pub/fedora/linux/releases/44/Server/x86_64/iso/Fedora-Server-dvd-x86_64-44-1.?.iso
+https://dl.fedoraproject.org/pub/fedora/linux/releases/44/Server/x86_64/iso/Fedora-Server-netinst-x86_64-44-1.?.iso
+
+# Popular Spins / Desktops
+https://dl.fedoraproject.org/pub/fedora/linux/releases/44/Spins/x86_64/iso/Fedora-KDE-Live-x86_64-44-1.?.iso
+https://dl.fedoraproject.org/pub/fedora/linux/releases/44/Spins/x86_64/iso/Fedora-Xfce-Live-x86_64-44-1.?.iso
+
+# =============================================
+# Previous Versions (select recent ones)
+# =============================================
+# Fedora 43
+https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/43/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-43-?.iso
+https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/43/Server/x86_64/iso/Fedora-Server-dvd-x86_64-43-?.iso
+
+# Fedora 42
+https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/42/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-42-?.iso
+
+# Fedora 40 / 41 / 39 etc. (replace number accordingly)
+https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/40/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-40-?.iso
+
+# =============================================
+# Useful Directories for Browsing
+# =============================================
+https://dl.fedoraproject.org/pub/fedora/linux/releases/44/          # Fedora 44 - all editions
+https://dl.fedoraproject.org/pub/fedora/linux/releases/             # All supported releases
+https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/  # Old releases archive
+https://fedoraproject.org/workstation/download/                     # Official Workstation page
+https://fedoraproject.org/server/download/                          # Official Server page
+https://spins.fedoraproject.org/                                    # All Spins (KDE, XFCE, etc.)
+
+# Torrent & Miscellaneous
+https://torrent.fedoraproject.org/                                  # All torrents
+https://fedoraproject.org/misc/                                     # Minimal, Everything, Containers

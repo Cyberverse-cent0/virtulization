@@ -1,0 +1,75 @@
+# Debian ISO Download URLs - Old Versions (12 to 1)
+# Full ISOs: netinst, DVD-1, BD-1 (Blu-ray), Live, etc.
+# Base: https://cdimage.debian.org/cdimage/archive/
+# Always verify SHA256SUMS or SHA512SUMS after download!
+
+# =============================================
+# Debian 12 (Bookworm) - 12.13.0 (Latest)
+# =============================================
+https://cdimage.debian.org/cdimage/archive/12.13.0/amd64/iso-cd/debian-12.13.0-amd64-netinst.iso
+https://cdimage.debian.org/cdimage/archive/12.13.0/amd64/iso-dvd/debian-12.13.0-amd64-DVD-1.iso
+https://cdimage.debian.org/cdimage/archive/12.13.0/amd64/iso-bd/debian-12.13.0-amd64-BD-1.iso     # Blu-ray full
+
+# Live Images
+https://cdimage.debian.org/cdimage/archive/12.13.0-live/amd64/iso-hybrid/debian-live-12.13.0-amd64-gnome.iso
+https://cdimage.debian.org/cdimage/archive/12.13.0-live/amd64/iso-hybrid/debian-live-12.13.0-amd64-kde.iso
+https://cdimage.debian.org/cdimage/archive/12.13.0-live/amd64/iso-hybrid/debian-live-12.13.0-amd64-xfce.iso
+https://cdimage.debian.org/cdimage/archive/12.13.0-live/amd64/iso-hybrid/debian-live-12.13.0-amd64-cinnamon.iso
+
+# =============================================
+# Debian 11 (Bullseye)
+# =============================================
+https://cdimage.debian.org/cdimage/archive/11.11.0/amd64/iso-cd/debian-11.11.0-amd64-netinst.iso
+https://cdimage.debian.org/cdimage/archive/11.11.0/amd64/iso-dvd/debian-11.11.0-amd64-DVD-1.iso
+
+# =============================================
+# Debian 10 (Buster)
+# =============================================
+https://cdimage.debian.org/cdimage/archive/10.13.0/amd64/iso-cd/debian-10.13.0-amd64-netinst.iso
+https://cdimage.debian.org/cdimage/archive/10.13.0/amd64/iso-dvd/debian-10.13.0-amd64-DVD-1.iso
+
+# =============================================
+# Debian 9 (Stretch)
+# =============================================
+https://cdimage.debian.org/cdimage/archive/9.13.0/amd64/iso-cd/debian-9.13.0-amd64-netinst.iso
+https://cdimage.debian.org/cdimage/archive/9.13.0/amd64/iso-dvd/debian-9.13.0-amd64-DVD-1.iso
+
+# =============================================
+# Debian 8 (Jessie)
+# =============================================
+https://cdimage.debian.org/cdimage/archive/8.11.0/amd64/iso-cd/debian-8.11.0-amd64-netinst.iso
+https://cdimage.debian.org/cdimage/archive/8.11.0/amd64/iso-dvd/debian-8.11.0-amd64-DVD-1.iso
+
+# =============================================
+# Debian 7 (Wheezy)
+# =============================================
+https://cdimage.debian.org/cdimage/archive/7.11.0/amd64/iso-cd/debian-7.11.0-amd64-netinst.iso
+https://cdimage.debian.org/cdimage/archive/7.11.0/amd64/iso-dvd/debian-7.11.0-amd64-DVD-1.iso
+
+# =============================================
+# Debian 6 (Squeeze)
+# =============================================
+https://cdimage.debian.org/cdimage/archive/6.0.10/amd64/iso-cd/debian-6.0.10-amd64-netinst.iso
+https://cdimage.debian.org/cdimage/archive/6.0.10/amd64/iso-dvd/debian-6.0.10-amd64-DVD-1.iso
+
+# =============================================
+# Debian 5 (Lenny) and older
+# =============================================
+https://cdimage.debian.org/cdimage/archive/5.0.10/amd64/iso-cd/debian-5.0.10-amd64-netinst.iso
+
+https://cdimage.debian.org/cdimage/archive/4.0_r9/amd64/iso-cd/debian-4.0_r9-amd64-netinst.iso
+
+# =============================================
+# Directories for browsing (very useful)
+# =============================================
+https://cdimage.debian.org/cdimage/archive/12.13.0/amd64/iso-cd/
+https://cdimage.debian.org/cdimage/archive/12.13.0/amd64/iso-dvd/
+https://cdimage.debian.org/cdimage/archive/12.13.0/amd64/iso-bd/
+
+https://cdimage.debian.org/cdimage/archive/12.13.0-live/amd64/iso-hybrid/
+
+https://cdimage.debian.org/cdimage/archive/
+https://cdimage.debian.org/mirror/cdimage/archive/     # Mirror link
+
+# Fast mirror base (if main is slow)
+# https://deb.debian.org/cdimage/archive/
